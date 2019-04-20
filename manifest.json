@@ -1,0 +1,38 @@
+{
+  "name": "BacaNulis",
+  "short_name": "BacaNulis",
+  "start_url": "https://bacanulis.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "icons": [{
+    "src": "https://3.bp.blogspot.com/-jXTfIswSqbE/XLqTItosBTI/AAAAAAAAD_8/PfmofEkIos0DD03hPZwIyHup3jAOOlbaACLcBGAs/s1600/bnc48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-EvEpyX98clU/XLqTI6xwOcI/AAAAAAAAEAE/BESBmTcyJzIHz8cGFAsXp9pPUu1qQihwwCLcBGAs/s1600/bnc72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-lHc8a8CJcmI/XLqTJExqRwI/AAAAAAAAEAI/3ixLLIk2DBwH2y4MBB01WrnNLOUqrd4wQCLcBGAs/s1600/bnc96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-ZGsDODpb1xI/XLqTH_Hk5MI/AAAAAAAAD_4/AvjE1GJWKRAbCI3gFdLaLVBdfrK6mk1ogCLcBGAs/s1600/bnc144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-0hrNPErAZMY/XLqTHi5eELI/AAAAAAAAD_w/o6B21nITJjArrGi9ZmVsEHjXAjv_jh6RQCLcBGAs/s1600/bnc168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-kfNWedCShxA/XLqTHmpu3AI/AAAAAAAAD_0/04mwDPpwFP8Xe9DceVvvxi5hcHgxwh-bQCLcBGAs/s1600/bnc192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-1nkW0dufxMY/XLqTI9-aw_I/AAAAAAAAEAA/dJodzQfoR84HvJtmXMFvD4LmdN6rYXypQCLcBGAs/s1600/bnc512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
